@@ -5,7 +5,7 @@ import numpy as np
 车牌识别学习例子
 """
 
-img = cv2.imread('F:/2.jpg')
+img = cv2.imread('F:/1.png')
 #灰度化
 image = cv2.cvtColor(img, cv2.COLOR_RGB2GRAY)
 cv2.namedWindow("Image2")
@@ -42,8 +42,12 @@ cv2.waitKey(0)
 
 #细节刻画 膨胀腐蚀
 #通过膨胀连接相近的图像区域，通过腐蚀去除孤立细小的色块。
-closed = cv2.erode(closed, None, iterations=4)
-closed = cv2.dilate(closed, None, iterations=4)
+closed = cv2.dilate(closed, None, iterations=4)#腐蚀
+closed = cv2.dilate(closed, None, iterations=4)#腐蚀
+closed = cv2.erode(closed, None, iterations=4)#膨胀
+
+
+
 cv2.namedWindow("Image7")
 cv2.imshow("Image7",closed)
 cv2.waitKey(0)
