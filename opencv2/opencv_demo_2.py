@@ -17,7 +17,7 @@ cv2.namedWindow("Image3")
 cv2.imshow("Image3",blurred)
 cv2.waitKey(0)
 
-#提取图像的梯度 图像边缘检测。
+#提取图像的梯度 图像边缘检测。提取特征
 gradX = cv2.Sobel(blurred, ddepth=cv2.CV_32F, dx=1, dy=0)
 gradY = cv2.Sobel(blurred, ddepth=cv2.CV_32F, dx=0, dy=1)
 
