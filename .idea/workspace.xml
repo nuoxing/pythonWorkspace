@@ -2,7 +2,321 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ad6d1a5d-dab4-4e48-8f5b-008771d38cb7" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/opencv2/opencv_demo_2.py" afterPath="$PROJECT_DIR$/opencv2/opencv_demo_2.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tensorflow/cnnLenet5/train.py" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tensorflow/Lib/site-packages/easy-install.pth" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tensorflow/Lib/site-packages/pip-9.0.1-py3.6.egg/EGG-INFO/PKG-INFO" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tensorflow/Lib/site-packages/pip-9.0.1-py3.6.egg/EGG-INFO/SOURCES.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tensorflow/Lib/site-packages/pip-9.0.1-py3.6.egg/EGG-INFO/dependency_links.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tensorflow/Lib/site-packages/pip-9.0.1-py3.6.egg/EGG-INFO/entry_points.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tensorflow/Lib/site-packages/pip-9.0.1-py3.6.egg/EGG-INFO/not-zip-safe" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tensorflow/Lib/site-packages/pip-9.0.1-py3.6.egg/EGG-INFO/requires.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tensorflow/Lib/site-packages/pip-9.0.1-py3.6.egg/EGG-INFO/top_level.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tensorflow/Lib/site-packages/pip-9.0.1-py3.6.egg/pip/__init__.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tensorflow/Lib/site-packages/pip-9.0.1-py3.6.egg/pip/__main__.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tensorflow/Lib/site-packages/pip-9.0.1-py3.6.egg/pip/_vendor/__init__.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tensorflow/Lib/site-packages/pip-9.0.1-py3.6.egg/pip/_vendor/appdirs.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tensorflow/Lib/site-packages/pip-9.0.1-py3.6.egg/pip/_vendor/cachecontrol/__init__.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tensorflow/Lib/site-packages/pip-9.0.1-py3.6.egg/pip/_vendor/cachecontrol/_cmd.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tensorflow/Lib/site-packages/pip-9.0.1-py3.6.egg/pip/_vendor/cachecontrol/adapter.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tensorflow/Lib/site-packages/pip-9.0.1-py3.6.egg/pip/_vendor/cachecontrol/cache.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tensorflow/Lib/site-packages/pip-9.0.1-py3.6.egg/pip/_vendor/cachecontrol/caches/__init__.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tensorflow/Lib/site-packages/pip-9.0.1-py3.6.egg/pip/_vendor/cachecontrol/caches/file_cache.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tensorflow/Lib/site-packages/pip-9.0.1-py3.6.egg/pip/_vendor/cachecontrol/caches/redis_cache.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tensorflow/Lib/site-packages/pip-9.0.1-py3.6.egg/pip/_vendor/cachecontrol/compat.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tensorflow/Lib/site-packages/pip-9.0.1-py3.6.egg/pip/_vendor/cachecontrol/controller.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tensorflow/Lib/site-packages/pip-9.0.1-py3.6.egg/pip/_vendor/cachecontrol/filewrapper.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tensorflow/Lib/site-packages/pip-9.0.1-py3.6.egg/pip/_vendor/cachecontrol/heuristics.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tensorflow/Lib/site-packages/pip-9.0.1-py3.6.egg/pip/_vendor/cachecontrol/serialize.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tensorflow/Lib/site-packages/pip-9.0.1-py3.6.egg/pip/_vendor/cachecontrol/wrapper.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tensorflow/Lib/site-packages/pip-9.0.1-py3.6.egg/pip/_vendor/colorama/__init__.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tensorflow/Lib/site-packages/pip-9.0.1-py3.6.egg/pip/_vendor/colorama/ansi.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tensorflow/Lib/site-packages/pip-9.0.1-py3.6.egg/pip/_vendor/colorama/ansitowin32.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tensorflow/Lib/site-packages/pip-9.0.1-py3.6.egg/pip/_vendor/colorama/initialise.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tensorflow/Lib/site-packages/pip-9.0.1-py3.6.egg/pip/_vendor/colorama/win32.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tensorflow/Lib/site-packages/pip-9.0.1-py3.6.egg/pip/_vendor/colorama/winterm.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tensorflow/Lib/site-packages/pip-9.0.1-py3.6.egg/pip/_vendor/distlib/__init__.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tensorflow/Lib/site-packages/pip-9.0.1-py3.6.egg/pip/_vendor/distlib/_backport/__init__.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tensorflow/Lib/site-packages/pip-9.0.1-py3.6.egg/pip/_vendor/distlib/_backport/misc.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tensorflow/Lib/site-packages/pip-9.0.1-py3.6.egg/pip/_vendor/distlib/_backport/shutil.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tensorflow/Lib/site-packages/pip-9.0.1-py3.6.egg/pip/_vendor/distlib/_backport/sysconfig.cfg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tensorflow/Lib/site-packages/pip-9.0.1-py3.6.egg/pip/_vendor/distlib/_backport/sysconfig.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tensorflow/Lib/site-packages/pip-9.0.1-py3.6.egg/pip/_vendor/distlib/_backport/tarfile.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tensorflow/Lib/site-packages/pip-9.0.1-py3.6.egg/pip/_vendor/distlib/compat.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tensorflow/Lib/site-packages/pip-9.0.1-py3.6.egg/pip/_vendor/distlib/database.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tensorflow/Lib/site-packages/pip-9.0.1-py3.6.egg/pip/_vendor/distlib/index.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tensorflow/Lib/site-packages/pip-9.0.1-py3.6.egg/pip/_vendor/distlib/locators.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tensorflow/Lib/site-packages/pip-9.0.1-py3.6.egg/pip/_vendor/distlib/manifest.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tensorflow/Lib/site-packages/pip-9.0.1-py3.6.egg/pip/_vendor/distlib/markers.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tensorflow/Lib/site-packages/pip-9.0.1-py3.6.egg/pip/_vendor/distlib/metadata.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tensorflow/Lib/site-packages/pip-9.0.1-py3.6.egg/pip/_vendor/distlib/resources.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tensorflow/Lib/site-packages/pip-9.0.1-py3.6.egg/pip/_vendor/distlib/scripts.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tensorflow/Lib/site-packages/pip-9.0.1-py3.6.egg/pip/_vendor/distlib/t32.exe" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tensorflow/Lib/site-packages/pip-9.0.1-py3.6.egg/pip/_vendor/distlib/t64.exe" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tensorflow/Lib/site-packages/pip-9.0.1-py3.6.egg/pip/_vendor/distlib/util.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tensorflow/Lib/site-packages/pip-9.0.1-py3.6.egg/pip/_vendor/distlib/version.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tensorflow/Lib/site-packages/pip-9.0.1-py3.6.egg/pip/_vendor/distlib/w32.exe" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tensorflow/Lib/site-packages/pip-9.0.1-py3.6.egg/pip/_vendor/distlib/w64.exe" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tensorflow/Lib/site-packages/pip-9.0.1-py3.6.egg/pip/_vendor/distlib/wheel.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tensorflow/Lib/site-packages/pip-9.0.1-py3.6.egg/pip/_vendor/distro.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tensorflow/Lib/site-packages/pip-9.0.1-py3.6.egg/pip/_vendor/html5lib/__init__.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tensorflow/Lib/site-packages/pip-9.0.1-py3.6.egg/pip/_vendor/html5lib/_ihatexml.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tensorflow/Lib/site-packages/pip-9.0.1-py3.6.egg/pip/_vendor/html5lib/_inputstream.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tensorflow/Lib/site-packages/pip-9.0.1-py3.6.egg/pip/_vendor/html5lib/_tokenizer.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tensorflow/Lib/site-packages/pip-9.0.1-py3.6.egg/pip/_vendor/html5lib/_trie/__init__.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tensorflow/Lib/site-packages/pip-9.0.1-py3.6.egg/pip/_vendor/html5lib/_trie/_base.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tensorflow/Lib/site-packages/pip-9.0.1-py3.6.egg/pip/_vendor/html5lib/_trie/datrie.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tensorflow/Lib/site-packages/pip-9.0.1-py3.6.egg/pip/_vendor/html5lib/_trie/py.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tensorflow/Lib/site-packages/pip-9.0.1-py3.6.egg/pip/_vendor/html5lib/_utils.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tensorflow/Lib/site-packages/pip-9.0.1-py3.6.egg/pip/_vendor/html5lib/constants.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tensorflow/Lib/site-packages/pip-9.0.1-py3.6.egg/pip/_vendor/html5lib/filters/alphabeticalattributes.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tensorflow/Lib/site-packages/pip-9.0.1-py3.6.egg/pip/_vendor/html5lib/filters/base.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tensorflow/Lib/site-packages/pip-9.0.1-py3.6.egg/pip/_vendor/html5lib/filters/inject_meta_charset.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tensorflow/Lib/site-packages/pip-9.0.1-py3.6.egg/pip/_vendor/html5lib/filters/lint.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tensorflow/Lib/site-packages/pip-9.0.1-py3.6.egg/pip/_vendor/html5lib/filters/optionaltags.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tensorflow/Lib/site-packages/pip-9.0.1-py3.6.egg/pip/_vendor/html5lib/filters/sanitizer.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tensorflow/Lib/site-packages/pip-9.0.1-py3.6.egg/pip/_vendor/html5lib/filters/whitespace.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tensorflow/Lib/site-packages/pip-9.0.1-py3.6.egg/pip/_vendor/html5lib/html5parser.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tensorflow/Lib/site-packages/pip-9.0.1-py3.6.egg/pip/_vendor/html5lib/serializer.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tensorflow/Lib/site-packages/pip-9.0.1-py3.6.egg/pip/_vendor/html5lib/treeadapters/__init__.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tensorflow/Lib/site-packages/pip-9.0.1-py3.6.egg/pip/_vendor/html5lib/treeadapters/genshi.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tensorflow/Lib/site-packages/pip-9.0.1-py3.6.egg/pip/_vendor/html5lib/treeadapters/sax.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tensorflow/Lib/site-packages/pip-9.0.1-py3.6.egg/pip/_vendor/html5lib/treebuilders/__init__.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tensorflow/Lib/site-packages/pip-9.0.1-py3.6.egg/pip/_vendor/html5lib/treebuilders/base.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tensorflow/Lib/site-packages/pip-9.0.1-py3.6.egg/pip/_vendor/html5lib/treebuilders/dom.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tensorflow/Lib/site-packages/pip-9.0.1-py3.6.egg/pip/_vendor/html5lib/treebuilders/etree.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tensorflow/Lib/site-packages/pip-9.0.1-py3.6.egg/pip/_vendor/html5lib/treebuilders/etree_lxml.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tensorflow/Lib/site-packages/pip-9.0.1-py3.6.egg/pip/_vendor/html5lib/treewalkers/__init__.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tensorflow/Lib/site-packages/pip-9.0.1-py3.6.egg/pip/_vendor/html5lib/treewalkers/base.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tensorflow/Lib/site-packages/pip-9.0.1-py3.6.egg/pip/_vendor/html5lib/treewalkers/dom.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tensorflow/Lib/site-packages/pip-9.0.1-py3.6.egg/pip/_vendor/html5lib/treewalkers/etree.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tensorflow/Lib/site-packages/pip-9.0.1-py3.6.egg/pip/_vendor/html5lib/treewalkers/etree_lxml.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tensorflow/Lib/site-packages/pip-9.0.1-py3.6.egg/pip/_vendor/html5lib/treewalkers/genshi.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tensorflow/Lib/site-packages/pip-9.0.1-py3.6.egg/pip/_vendor/ipaddress.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tensorflow/Lib/site-packages/pip-9.0.1-py3.6.egg/pip/_vendor/lockfile/__init__.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tensorflow/Lib/site-packages/pip-9.0.1-py3.6.egg/pip/_vendor/lockfile/linklockfile.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tensorflow/Lib/site-packages/pip-9.0.1-py3.6.egg/pip/_vendor/lockfile/mkdirlockfile.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tensorflow/Lib/site-packages/pip-9.0.1-py3.6.egg/pip/_vendor/lockfile/pidlockfile.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tensorflow/Lib/site-packages/pip-9.0.1-py3.6.egg/pip/_vendor/lockfile/sqlitelockfile.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tensorflow/Lib/site-packages/pip-9.0.1-py3.6.egg/pip/_vendor/lockfile/symlinklockfile.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tensorflow/Lib/site-packages/pip-9.0.1-py3.6.egg/pip/_vendor/ordereddict.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tensorflow/Lib/site-packages/pip-9.0.1-py3.6.egg/pip/_vendor/packaging/__about__.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tensorflow/Lib/site-packages/pip-9.0.1-py3.6.egg/pip/_vendor/packaging/__init__.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tensorflow/Lib/site-packages/pip-9.0.1-py3.6.egg/pip/_vendor/packaging/_compat.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tensorflow/Lib/site-packages/pip-9.0.1-py3.6.egg/pip/_vendor/packaging/_structures.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tensorflow/Lib/site-packages/pip-9.0.1-py3.6.egg/pip/_vendor/packaging/markers.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tensorflow/Lib/site-packages/pip-9.0.1-py3.6.egg/pip/_vendor/packaging/requirements.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tensorflow/Lib/site-packages/pip-9.0.1-py3.6.egg/pip/_vendor/packaging/specifiers.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tensorflow/Lib/site-packages/pip-9.0.1-py3.6.egg/pip/_vendor/packaging/utils.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tensorflow/Lib/site-packages/pip-9.0.1-py3.6.egg/pip/_vendor/packaging/version.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tensorflow/Lib/site-packages/pip-9.0.1-py3.6.egg/pip/_vendor/pkg_resources/__init__.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tensorflow/Lib/site-packages/pip-9.0.1-py3.6.egg/pip/_vendor/progress/__init__.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tensorflow/Lib/site-packages/pip-9.0.1-py3.6.egg/pip/_vendor/progress/bar.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tensorflow/Lib/site-packages/pip-9.0.1-py3.6.egg/pip/_vendor/progress/counter.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tensorflow/Lib/site-packages/pip-9.0.1-py3.6.egg/pip/_vendor/progress/helpers.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tensorflow/Lib/site-packages/pip-9.0.1-py3.6.egg/pip/_vendor/progress/spinner.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tensorflow/Lib/site-packages/pip-9.0.1-py3.6.egg/pip/_vendor/pyparsing.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tensorflow/Lib/site-packages/pip-9.0.1-py3.6.egg/pip/_vendor/re-vendor.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tensorflow/Lib/site-packages/pip-9.0.1-py3.6.egg/pip/_vendor/requests/__init__.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tensorflow/Lib/site-packages/pip-9.0.1-py3.6.egg/pip/_vendor/requests/adapters.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tensorflow/Lib/site-packages/pip-9.0.1-py3.6.egg/pip/_vendor/requests/api.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tensorflow/Lib/site-packages/pip-9.0.1-py3.6.egg/pip/_vendor/requests/auth.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tensorflow/Lib/site-packages/pip-9.0.1-py3.6.egg/pip/_vendor/requests/cacert.pem" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tensorflow/Lib/site-packages/pip-9.0.1-py3.6.egg/pip/_vendor/requests/certs.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tensorflow/Lib/site-packages/pip-9.0.1-py3.6.egg/pip/_vendor/requests/compat.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tensorflow/Lib/site-packages/pip-9.0.1-py3.6.egg/pip/_vendor/requests/cookies.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tensorflow/Lib/site-packages/pip-9.0.1-py3.6.egg/pip/_vendor/requests/exceptions.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tensorflow/Lib/site-packages/pip-9.0.1-py3.6.egg/pip/_vendor/requests/hooks.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tensorflow/Lib/site-packages/pip-9.0.1-py3.6.egg/pip/_vendor/requests/models.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tensorflow/Lib/site-packages/pip-9.0.1-py3.6.egg/pip/_vendor/requests/packages/__init__.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tensorflow/Lib/site-packages/pip-9.0.1-py3.6.egg/pip/_vendor/requests/packages/chardet/__init__.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tensorflow/Lib/site-packages/pip-9.0.1-py3.6.egg/pip/_vendor/requests/packages/chardet/big5freq.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tensorflow/Lib/site-packages/pip-9.0.1-py3.6.egg/pip/_vendor/requests/packages/chardet/big5prober.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tensorflow/Lib/site-packages/pip-9.0.1-py3.6.egg/pip/_vendor/requests/packages/chardet/chardetect.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tensorflow/Lib/site-packages/pip-9.0.1-py3.6.egg/pip/_vendor/requests/packages/chardet/chardistribution.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tensorflow/Lib/site-packages/pip-9.0.1-py3.6.egg/pip/_vendor/requests/packages/chardet/charsetgroupprober.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tensorflow/Lib/site-packages/pip-9.0.1-py3.6.egg/pip/_vendor/requests/packages/chardet/charsetprober.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tensorflow/Lib/site-packages/pip-9.0.1-py3.6.egg/pip/_vendor/requests/packages/chardet/codingstatemachine.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tensorflow/Lib/site-packages/pip-9.0.1-py3.6.egg/pip/_vendor/requests/packages/chardet/compat.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tensorflow/Lib/site-packages/pip-9.0.1-py3.6.egg/pip/_vendor/requests/packages/chardet/constants.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tensorflow/Lib/site-packages/pip-9.0.1-py3.6.egg/pip/_vendor/requests/packages/chardet/cp949prober.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tensorflow/Lib/site-packages/pip-9.0.1-py3.6.egg/pip/_vendor/requests/packages/chardet/escprober.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tensorflow/Lib/site-packages/pip-9.0.1-py3.6.egg/pip/_vendor/requests/packages/chardet/escsm.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tensorflow/Lib/site-packages/pip-9.0.1-py3.6.egg/pip/_vendor/requests/packages/chardet/eucjpprober.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tensorflow/Lib/site-packages/pip-9.0.1-py3.6.egg/pip/_vendor/requests/packages/chardet/euckrfreq.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tensorflow/Lib/site-packages/pip-9.0.1-py3.6.egg/pip/_vendor/requests/packages/chardet/euckrprober.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tensorflow/Lib/site-packages/pip-9.0.1-py3.6.egg/pip/_vendor/requests/packages/chardet/euctwfreq.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tensorflow/Lib/site-packages/pip-9.0.1-py3.6.egg/pip/_vendor/requests/packages/chardet/euctwprober.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tensorflow/Lib/site-packages/pip-9.0.1-py3.6.egg/pip/_vendor/requests/packages/chardet/gb2312freq.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tensorflow/Lib/site-packages/pip-9.0.1-py3.6.egg/pip/_vendor/requests/packages/chardet/gb2312prober.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tensorflow/Lib/site-packages/pip-9.0.1-py3.6.egg/pip/_vendor/requests/packages/chardet/hebrewprober.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tensorflow/Lib/site-packages/pip-9.0.1-py3.6.egg/pip/_vendor/requests/packages/chardet/jisfreq.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tensorflow/Lib/site-packages/pip-9.0.1-py3.6.egg/pip/_vendor/requests/packages/chardet/jpcntx.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tensorflow/Lib/site-packages/pip-9.0.1-py3.6.egg/pip/_vendor/requests/packages/chardet/langbulgarianmodel.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tensorflow/Lib/site-packages/pip-9.0.1-py3.6.egg/pip/_vendor/requests/packages/chardet/langcyrillicmodel.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tensorflow/Lib/site-packages/pip-9.0.1-py3.6.egg/pip/_vendor/requests/packages/chardet/langgreekmodel.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tensorflow/Lib/site-packages/pip-9.0.1-py3.6.egg/pip/_vendor/requests/packages/chardet/langhebrewmodel.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tensorflow/Lib/site-packages/pip-9.0.1-py3.6.egg/pip/_vendor/requests/packages/chardet/langhungarianmodel.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tensorflow/Lib/site-packages/pip-9.0.1-py3.6.egg/pip/_vendor/requests/packages/chardet/langthaimodel.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tensorflow/Lib/site-packages/pip-9.0.1-py3.6.egg/pip/_vendor/requests/packages/chardet/latin1prober.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tensorflow/Lib/site-packages/pip-9.0.1-py3.6.egg/pip/_vendor/requests/packages/chardet/mbcharsetprober.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tensorflow/Lib/site-packages/pip-9.0.1-py3.6.egg/pip/_vendor/requests/packages/chardet/mbcsgroupprober.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tensorflow/Lib/site-packages/pip-9.0.1-py3.6.egg/pip/_vendor/requests/packages/chardet/mbcssm.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tensorflow/Lib/site-packages/pip-9.0.1-py3.6.egg/pip/_vendor/requests/packages/chardet/sbcharsetprober.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tensorflow/Lib/site-packages/pip-9.0.1-py3.6.egg/pip/_vendor/requests/packages/chardet/sbcsgroupprober.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tensorflow/Lib/site-packages/pip-9.0.1-py3.6.egg/pip/_vendor/requests/packages/chardet/sjisprober.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tensorflow/Lib/site-packages/pip-9.0.1-py3.6.egg/pip/_vendor/requests/packages/chardet/universaldetector.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tensorflow/Lib/site-packages/pip-9.0.1-py3.6.egg/pip/_vendor/requests/packages/chardet/utf8prober.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tensorflow/Lib/site-packages/pip-9.0.1-py3.6.egg/pip/_vendor/requests/packages/urllib3/__init__.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tensorflow/Lib/site-packages/pip-9.0.1-py3.6.egg/pip/_vendor/requests/packages/urllib3/_collections.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tensorflow/Lib/site-packages/pip-9.0.1-py3.6.egg/pip/_vendor/requests/packages/urllib3/connection.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tensorflow/Lib/site-packages/pip-9.0.1-py3.6.egg/pip/_vendor/requests/packages/urllib3/connectionpool.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tensorflow/Lib/site-packages/pip-9.0.1-py3.6.egg/pip/_vendor/requests/packages/urllib3/contrib/appengine.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tensorflow/Lib/site-packages/pip-9.0.1-py3.6.egg/pip/_vendor/requests/packages/urllib3/contrib/ntlmpool.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tensorflow/Lib/site-packages/pip-9.0.1-py3.6.egg/pip/_vendor/requests/packages/urllib3/contrib/pyopenssl.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tensorflow/Lib/site-packages/pip-9.0.1-py3.6.egg/pip/_vendor/requests/packages/urllib3/contrib/socks.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tensorflow/Lib/site-packages/pip-9.0.1-py3.6.egg/pip/_vendor/requests/packages/urllib3/exceptions.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tensorflow/Lib/site-packages/pip-9.0.1-py3.6.egg/pip/_vendor/requests/packages/urllib3/fields.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tensorflow/Lib/site-packages/pip-9.0.1-py3.6.egg/pip/_vendor/requests/packages/urllib3/filepost.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tensorflow/Lib/site-packages/pip-9.0.1-py3.6.egg/pip/_vendor/requests/packages/urllib3/packages/__init__.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tensorflow/Lib/site-packages/pip-9.0.1-py3.6.egg/pip/_vendor/requests/packages/urllib3/packages/ordered_dict.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tensorflow/Lib/site-packages/pip-9.0.1-py3.6.egg/pip/_vendor/requests/packages/urllib3/packages/six.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tensorflow/Lib/site-packages/pip-9.0.1-py3.6.egg/pip/_vendor/requests/packages/urllib3/packages/ssl_match_hostname/__init__.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tensorflow/Lib/site-packages/pip-9.0.1-py3.6.egg/pip/_vendor/requests/packages/urllib3/packages/ssl_match_hostname/_implementation.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tensorflow/Lib/site-packages/pip-9.0.1-py3.6.egg/pip/_vendor/requests/packages/urllib3/poolmanager.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tensorflow/Lib/site-packages/pip-9.0.1-py3.6.egg/pip/_vendor/requests/packages/urllib3/request.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tensorflow/Lib/site-packages/pip-9.0.1-py3.6.egg/pip/_vendor/requests/packages/urllib3/response.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tensorflow/Lib/site-packages/pip-9.0.1-py3.6.egg/pip/_vendor/requests/packages/urllib3/util/__init__.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tensorflow/Lib/site-packages/pip-9.0.1-py3.6.egg/pip/_vendor/requests/packages/urllib3/util/connection.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tensorflow/Lib/site-packages/pip-9.0.1-py3.6.egg/pip/_vendor/requests/packages/urllib3/util/request.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tensorflow/Lib/site-packages/pip-9.0.1-py3.6.egg/pip/_vendor/requests/packages/urllib3/util/response.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tensorflow/Lib/site-packages/pip-9.0.1-py3.6.egg/pip/_vendor/requests/packages/urllib3/util/retry.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tensorflow/Lib/site-packages/pip-9.0.1-py3.6.egg/pip/_vendor/requests/packages/urllib3/util/ssl_.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tensorflow/Lib/site-packages/pip-9.0.1-py3.6.egg/pip/_vendor/requests/packages/urllib3/util/timeout.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tensorflow/Lib/site-packages/pip-9.0.1-py3.6.egg/pip/_vendor/requests/packages/urllib3/util/url.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tensorflow/Lib/site-packages/pip-9.0.1-py3.6.egg/pip/_vendor/requests/sessions.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tensorflow/Lib/site-packages/pip-9.0.1-py3.6.egg/pip/_vendor/requests/status_codes.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tensorflow/Lib/site-packages/pip-9.0.1-py3.6.egg/pip/_vendor/requests/structures.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tensorflow/Lib/site-packages/pip-9.0.1-py3.6.egg/pip/_vendor/requests/utils.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tensorflow/Lib/site-packages/pip-9.0.1-py3.6.egg/pip/_vendor/retrying.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tensorflow/Lib/site-packages/pip-9.0.1-py3.6.egg/pip/_vendor/six.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tensorflow/Lib/site-packages/pip-9.0.1-py3.6.egg/pip/_vendor/webencodings/__init__.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tensorflow/Lib/site-packages/pip-9.0.1-py3.6.egg/pip/_vendor/webencodings/labels.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tensorflow/Lib/site-packages/pip-9.0.1-py3.6.egg/pip/_vendor/webencodings/mklabels.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tensorflow/Lib/site-packages/pip-9.0.1-py3.6.egg/pip/_vendor/webencodings/tests.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tensorflow/Lib/site-packages/pip-9.0.1-py3.6.egg/pip/_vendor/webencodings/x_user_defined.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tensorflow/Lib/site-packages/pip-9.0.1-py3.6.egg/pip/basecommand.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tensorflow/Lib/site-packages/pip-9.0.1-py3.6.egg/pip/baseparser.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tensorflow/Lib/site-packages/pip-9.0.1-py3.6.egg/pip/cmdoptions.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tensorflow/Lib/site-packages/pip-9.0.1-py3.6.egg/pip/commands/__init__.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tensorflow/Lib/site-packages/pip-9.0.1-py3.6.egg/pip/commands/check.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tensorflow/Lib/site-packages/pip-9.0.1-py3.6.egg/pip/commands/completion.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tensorflow/Lib/site-packages/pip-9.0.1-py3.6.egg/pip/commands/download.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tensorflow/Lib/site-packages/pip-9.0.1-py3.6.egg/pip/commands/freeze.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tensorflow/Lib/site-packages/pip-9.0.1-py3.6.egg/pip/commands/hash.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tensorflow/Lib/site-packages/pip-9.0.1-py3.6.egg/pip/commands/help.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tensorflow/Lib/site-packages/pip-9.0.1-py3.6.egg/pip/commands/install.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tensorflow/Lib/site-packages/pip-9.0.1-py3.6.egg/pip/commands/list.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tensorflow/Lib/site-packages/pip-9.0.1-py3.6.egg/pip/commands/search.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tensorflow/Lib/site-packages/pip-9.0.1-py3.6.egg/pip/commands/show.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tensorflow/Lib/site-packages/pip-9.0.1-py3.6.egg/pip/commands/uninstall.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tensorflow/Lib/site-packages/pip-9.0.1-py3.6.egg/pip/commands/wheel.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tensorflow/Lib/site-packages/pip-9.0.1-py3.6.egg/pip/compat/__init__.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tensorflow/Lib/site-packages/pip-9.0.1-py3.6.egg/pip/compat/dictconfig.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tensorflow/Lib/site-packages/pip-9.0.1-py3.6.egg/pip/download.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tensorflow/Lib/site-packages/pip-9.0.1-py3.6.egg/pip/exceptions.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tensorflow/Lib/site-packages/pip-9.0.1-py3.6.egg/pip/index.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tensorflow/Lib/site-packages/pip-9.0.1-py3.6.egg/pip/locations.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tensorflow/Lib/site-packages/pip-9.0.1-py3.6.egg/pip/models/__init__.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tensorflow/Lib/site-packages/pip-9.0.1-py3.6.egg/pip/models/index.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tensorflow/Lib/site-packages/pip-9.0.1-py3.6.egg/pip/operations/check.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tensorflow/Lib/site-packages/pip-9.0.1-py3.6.egg/pip/operations/freeze.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tensorflow/Lib/site-packages/pip-9.0.1-py3.6.egg/pip/pep425tags.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tensorflow/Lib/site-packages/pip-9.0.1-py3.6.egg/pip/req/__init__.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tensorflow/Lib/site-packages/pip-9.0.1-py3.6.egg/pip/req/req_file.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tensorflow/Lib/site-packages/pip-9.0.1-py3.6.egg/pip/req/req_install.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tensorflow/Lib/site-packages/pip-9.0.1-py3.6.egg/pip/req/req_set.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tensorflow/Lib/site-packages/pip-9.0.1-py3.6.egg/pip/req/req_uninstall.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tensorflow/Lib/site-packages/pip-9.0.1-py3.6.egg/pip/status_codes.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tensorflow/Lib/site-packages/pip-9.0.1-py3.6.egg/pip/utils/__init__.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tensorflow/Lib/site-packages/pip-9.0.1-py3.6.egg/pip/utils/appdirs.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tensorflow/Lib/site-packages/pip-9.0.1-py3.6.egg/pip/utils/build.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tensorflow/Lib/site-packages/pip-9.0.1-py3.6.egg/pip/utils/deprecation.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tensorflow/Lib/site-packages/pip-9.0.1-py3.6.egg/pip/utils/encoding.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tensorflow/Lib/site-packages/pip-9.0.1-py3.6.egg/pip/utils/filesystem.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tensorflow/Lib/site-packages/pip-9.0.1-py3.6.egg/pip/utils/glibc.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tensorflow/Lib/site-packages/pip-9.0.1-py3.6.egg/pip/utils/hashes.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tensorflow/Lib/site-packages/pip-9.0.1-py3.6.egg/pip/utils/logging.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tensorflow/Lib/site-packages/pip-9.0.1-py3.6.egg/pip/utils/outdated.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tensorflow/Lib/site-packages/pip-9.0.1-py3.6.egg/pip/utils/packaging.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tensorflow/Lib/site-packages/pip-9.0.1-py3.6.egg/pip/utils/setuptools_build.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tensorflow/Lib/site-packages/pip-9.0.1-py3.6.egg/pip/utils/ui.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tensorflow/Lib/site-packages/pip-9.0.1-py3.6.egg/pip/vcs/__init__.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tensorflow/Lib/site-packages/pip-9.0.1-py3.6.egg/pip/vcs/bazaar.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tensorflow/Lib/site-packages/pip-9.0.1-py3.6.egg/pip/vcs/git.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tensorflow/Lib/site-packages/pip-9.0.1-py3.6.egg/pip/vcs/mercurial.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tensorflow/Lib/site-packages/pip-9.0.1-py3.6.egg/pip/vcs/subversion.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tensorflow/Lib/site-packages/pip-9.0.1-py3.6.egg/pip/wheel.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tensorflow/Lib/site-packages/setuptools-28.8.0-py3.6.egg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tensorflow/Lib/site-packages/setuptools.pth" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tensorflow/Lib/tcl8.6/init.tcl" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tensorflow/Scripts/Activate.ps1" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tensorflow/Scripts/_asyncio.pyd" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tensorflow/Scripts/_bz2.pyd" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tensorflow/Scripts/_ctypes.pyd" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tensorflow/Scripts/_ctypes_test.pyd" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tensorflow/Scripts/_decimal.pyd" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tensorflow/Scripts/_elementtree.pyd" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tensorflow/Scripts/_hashlib.pyd" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tensorflow/Scripts/_lzma.pyd" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tensorflow/Scripts/_msi.pyd" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tensorflow/Scripts/_multiprocessing.pyd" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tensorflow/Scripts/_overlapped.pyd" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tensorflow/Scripts/_socket.pyd" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tensorflow/Scripts/_sqlite3.pyd" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tensorflow/Scripts/_ssl.pyd" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tensorflow/Scripts/_testbuffer.pyd" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tensorflow/Scripts/_testcapi.pyd" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tensorflow/Scripts/_testconsole.pyd" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tensorflow/Scripts/_testimportmultiple.pyd" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tensorflow/Scripts/_testmultiphase.pyd" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tensorflow/Scripts/_tkinter.pyd" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tensorflow/Scripts/activate.bat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tensorflow/Scripts/deactivate.bat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tensorflow/Scripts/easy_install-3.6-script.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tensorflow/Scripts/easy_install-3.6.exe" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tensorflow/Scripts/easy_install-3.6.exe.manifest" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tensorflow/Scripts/easy_install-script.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tensorflow/Scripts/easy_install.exe" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tensorflow/Scripts/easy_install.exe.manifest" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tensorflow/Scripts/pip-script.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tensorflow/Scripts/pip.exe" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tensorflow/Scripts/pip.exe.manifest" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tensorflow/Scripts/pip3-script.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tensorflow/Scripts/pip3.6-script.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tensorflow/Scripts/pip3.6.exe" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tensorflow/Scripts/pip3.6.exe.manifest" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tensorflow/Scripts/pip3.exe" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tensorflow/Scripts/pip3.exe.manifest" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tensorflow/Scripts/pyexpat.pyd" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tensorflow/Scripts/python.exe" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tensorflow/Scripts/python3.dll" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tensorflow/Scripts/python36.dll" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tensorflow/Scripts/pythonw.exe" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tensorflow/Scripts/select.pyd" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tensorflow/Scripts/sqlite3.dll" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tensorflow/Scripts/tcl86t.dll" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tensorflow/Scripts/tk86t.dll" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tensorflow/Scripts/unicodedata.pyd" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tensorflow/Scripts/vcruntime140.dll" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tensorflow/Scripts/winsound.pyd" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tensorflow/pip-selfcheck.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tensorflow/pyvenv.cfg" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/pythonWorkspace.iml" afterPath="$PROJECT_DIR$/.idea/pythonWorkspace.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/tensorflow/Lib/site-packages/pip-9.0.1-py3.6.egg/pip/_vendor/html5lib/filters/__init__.py" afterPath="$PROJECT_DIR$/tensorflow/cnnLenet5/__init__.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/tensorflow/Lib/site-packages/pip-9.0.1-py3.6.egg/pip/_vendor/requests/packages/urllib3/contrib/__init__.py" afterPath="$PROJECT_DIR$/tensorflow/cnnLenet5/imageProcess.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/tensorflow/Lib/site-packages/pip-9.0.1-py3.6.egg/pip/operations/__init__.py" afterPath="$PROJECT_DIR$/tensorflow/cnnLenet5/resultTest.py" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -13,25 +327,35 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="opencv_demo_1.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/opencv2/opencv_demo_1.py">
+      <file leaf-file-name="train.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/tensorflow/cnnLenet5/train.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1408">
-              <caret line="65" column="29" lean-forward="false" selection-start-line="65" selection-start-column="29" selection-end-line="65" selection-end-column="29" />
+            <state relative-caret-position="2376">
+              <caret line="108" column="25" lean-forward="true" selection-start-line="108" selection-start-column="25" selection-end-line="108" selection-end-column="25" />
               <folding>
-                <element signature="e#0#10#0" expanded="true" />
+                <element signature="e#45#68#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="opencv_demo_2.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/opencv2/opencv_demo_2.py">
+      <file leaf-file-name="imageProcess.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/tensorflow/cnnLenet5/imageProcess.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="110">
-              <caret line="71" column="15" lean-forward="true" selection-start-line="71" selection-start-column="15" selection-end-line="71" selection-end-column="15" />
+            <state relative-caret-position="286">
+              <caret line="13" column="33" lean-forward="false" selection-start-line="13" selection-start-column="33" selection-end-line="13" selection-end-column="33" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="resultTest.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/tensorflow/cnnLenet5/resultTest.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="329">
+              <caret line="57" column="0" lean-forward="true" selection-start-line="57" selection-start-column="0" selection-end-line="57" selection-end-column="0" />
               <folding>
-                <element signature="e#0#10#0" expanded="true" />
+                <element signature="e#0#21#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -54,6 +378,9 @@
       <list>
         <option value="$PROJECT_DIR$/opencv2/opencv_demo_1.py" />
         <option value="$PROJECT_DIR$/opencv2/opencv_demo_2.py" />
+        <option value="$PROJECT_DIR$/tensorflow/cnnLenet5/imageProcess.py" />
+        <option value="$PROJECT_DIR$/tensorflow/cnnLenet5/resultTest.py" />
+        <option value="$PROJECT_DIR$/tensorflow/cnnLenet5/train.py" />
       </list>
     </option>
   </component>
@@ -90,6 +417,17 @@
               <item name="pythonWorkspace" type="b2602c69:ProjectViewProjectNode" />
               <item name="pythonWorkspace" type="462c0819:PsiDirectoryNode" />
               <item name="opencv2" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="pythonWorkspace" type="b2602c69:ProjectViewProjectNode" />
+              <item name="pythonWorkspace" type="462c0819:PsiDirectoryNode" />
+              <item name="tensorflow" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="pythonWorkspace" type="b2602c69:ProjectViewProjectNode" />
+              <item name="pythonWorkspace" type="462c0819:PsiDirectoryNode" />
+              <item name="tensorflow" type="462c0819:PsiDirectoryNode" />
+              <item name="cnnLenet5" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -181,17 +519,18 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1456" height="876" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24027778" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32898173" sideWeight="0.50277776" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32898173" sideWeight="0.49722221" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32898173" sideWeight="0.49722221" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Data View" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -210,13 +549,52 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/tensorflow/cnnLenet5/train.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="16" column="22" lean-forward="false" selection-start-line="16" selection-start-column="22" selection-end-line="16" selection-end-column="22" />
+          <folding>
+            <element signature="e#45#68#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tensorflow/cnnLenet5/imageProcess.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="770">
+          <caret line="35" column="15" lean-forward="false" selection-start-line="35" selection-start-column="15" selection-end-line="35" selection-end-column="15" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tensorflow/cnnLenet5/resultTest.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="264">
+          <caret line="14" column="21" lean-forward="false" selection-start-line="14" selection-start-column="21" selection-end-line="14" selection-end-column="21" />
+          <folding>
+            <element signature="e#0#21#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/opencv2/opencv_demo_1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1430">
+          <caret line="65" column="29" lean-forward="false" selection-start-line="65" selection-start-column="29" selection-end-line="65" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/opencv2/opencv_demo_2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1540">
+          <caret line="71" column="15" lean-forward="true" selection-start-line="71" selection-start-column="15" selection-end-line="71" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/opencv2/opencv_demo_1.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <element signature="e#0#10#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -224,9 +602,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="308">
           <caret line="15" column="25" lean-forward="true" selection-start-line="15" selection-start-column="25" selection-end-line="15" selection-end-column="25" />
-          <folding>
-            <element signature="e#0#10#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -234,9 +609,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <element signature="e#0#10#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -247,22 +619,44 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/opencv2/opencv_demo_2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1804">
+          <caret line="82" column="17" lean-forward="false" selection-start-line="82" selection-start-column="17" selection-end-line="82" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/opencv2/opencv_demo_1.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1408">
+        <state relative-caret-position="263">
           <caret line="65" column="29" lean-forward="false" selection-start-line="65" selection-start-column="29" selection-end-line="65" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tensorflow/cnnLenet5/imageProcess.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="286">
+          <caret line="13" column="33" lean-forward="false" selection-start-line="13" selection-start-column="33" selection-end-line="13" selection-end-column="33" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tensorflow/cnnLenet5/train.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2376">
+          <caret line="108" column="25" lean-forward="true" selection-start-line="108" selection-start-column="25" selection-end-line="108" selection-end-column="25" />
           <folding>
-            <element signature="e#0#10#0" expanded="true" />
+            <element signature="e#45#68#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/opencv2/opencv_demo_2.py">
+    <entry file="file://$PROJECT_DIR$/tensorflow/cnnLenet5/resultTest.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="110">
-          <caret line="71" column="15" lean-forward="true" selection-start-line="71" selection-start-column="15" selection-end-line="71" selection-end-column="15" />
+        <state relative-caret-position="329">
+          <caret line="57" column="0" lean-forward="true" selection-start-line="57" selection-start-column="0" selection-end-line="57" selection-end-column="0" />
           <folding>
-            <element signature="e#0#10#0" expanded="true" />
+            <element signature="e#0#21#0" expanded="true" />
           </folding>
         </state>
       </provider>
